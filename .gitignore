@@ -1,0 +1,49 @@
+# Fichiers générés par Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Logs
+*.log
+
+
+
+# Fichiers de configuration IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Fichiers Eclipse
+.classpath
+.project
+.settings/
+
+# Fichiers NetBeans
+nbproject/
+private/
+
+# Fichiers IntelliJ IDEA
+*.idea/
+*.iml
+
+# Fichiers temporaires
+*.swp
+*.tmp
+*.bak
+*.old
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+*.class
+
+# JAR/WAR/EAR générés
+*.jar
+*.war
+*.ear
